@@ -1,0 +1,6 @@
+{
+  "appTitle": "pixly",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
