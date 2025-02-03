@@ -1,4 +1,4 @@
-# pixly
+# Pixly
 
 This for now until July will remain as a default flutter project and then in July i will start work on this
 
